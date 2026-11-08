@@ -21,3 +21,8 @@ bench-results/
 *.aab
 launcher/hs_err_pid*.log
 launcher/replay_pid*.log
+tools/.evv
+themes/mitv-appletv/wallpaper.jpg
+themes/mitv-appletv/config.json
+plan.md
+packages.txt
